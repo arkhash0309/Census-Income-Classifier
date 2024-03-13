@@ -6,5 +6,5 @@
 <li>Logistic Regression</li>
 <li>XGBoost Classifier</li>
 <br/>
-<p>It was significant that the Random Forest Classifier performed better for this model than the Naive Bayes on many measurement metrics.</p>
-<p>However, other algorithms such as XGBoost and Adaptive Gradient Boosting could be tried to analyse and come up with a more efficient model.</p>
+<p>The XGBoost Classifier proved to be the most efficient model, closely followed by the Logistic Regression model and the Random Forest Classifier.</p>
+<p>The Gaussian Naive Bayes Classifier was not upto the level of the other three models as it provided an accuracy score of only about 60%</p>
