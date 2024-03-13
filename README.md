@@ -8,3 +8,5 @@
 <br/>
 <p>The XGBoost Classifier proved to be the most efficient model, closely followed by the Logistic Regression model and the Random Forest Classifier.</p>
 <p>The Gaussian Naive Bayes Classifier was not upto the level of the other three models as it provided an accuracy score of only about 60%</p>
+</br>
+<img src="ROC.png" alt="ROC plot of the four models">
